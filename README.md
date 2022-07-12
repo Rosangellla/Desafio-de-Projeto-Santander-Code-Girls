@@ -1,5 +1,5 @@
 # Desafio-de-Projeto-Santander-Code-Girls
-Entrega de Projeto Santander Code Girls
+Repositório Criado para entrega do desafio do Projeto Santander Code Girls
 
 
 ## Links Úteis
